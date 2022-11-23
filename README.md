@@ -1,0 +1,5 @@
+# DonationManagement
+The COVID-19 pandemic has had a great impact on human society. Despite its impact on the economy, it brings death to numberless people. The whole world is continue affected by COVID-19; most countries are still keeping their COVID-19 SOP to stop the virus chain. During this endemic timeframe, people still wear masks and quarantine themselves when they are in close contact, using test kits when they suspect they get COVID-19.
+The initiative to counter the economic effect brought by COVID-19 is the pivotal task of the government. They need support from the public and all entities for the economy to recover during the endemic. Therefore, the government will receive donations from entities.
+Every government unites and helps each other in any field. The government will also donate medical needs to an organization that helps people to overcome the COVID-19 pandemic. Malaysia Red Crescent Society is one of the non-profit organizations that receive medical supplements from governments of multiple countries.
+

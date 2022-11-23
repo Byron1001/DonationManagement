@@ -1,0 +1,6 @@
+Name of supply          : Supply code   : Donator       : No. of Shipment : Quantity Received (millions)  
+Contactless Thermometer : CT            : Japan         : 1               : 1.2000                        
+Hand Sanitizers         : HS            : USA           : 1               : 3.4970                        
+Face Mask               : FM            : China         : 2               : 120.0000                      
+Surgical Mask           : SM            : China         : 2               : 37.9988                       
+Oxygen Mask             : OM            : Saudi         : 2               : 8.9880                        

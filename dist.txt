@@ -1,0 +1,4 @@
+Name of supply|Supply code|Hospital Name|Quantity distributed (thousands)
+Oxygen Mask|OM|hospital apu|12.000
+Surgical Mask|SM|hospital bukit jalil|1.200
+Hand Sanitizers|HS|hospital block c|3.000
